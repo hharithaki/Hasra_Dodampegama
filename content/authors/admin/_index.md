@@ -76,15 +76,15 @@ skills:
       - name: Anime
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: anime-away-face
       - name: Books
         description: ''
         percent: 80
-        icon: 📚
+        icon: books
       - name: Painting
         description: ''
         percent: 60
-        icon: camera
+        icon: Paint-Palette-And-Brush
 ---
 
 ## About Me

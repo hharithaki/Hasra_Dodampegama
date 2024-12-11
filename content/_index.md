@@ -58,7 +58,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [2, 0, 0, 0]
   - block: collection
     content:
       title: Recent Publications
