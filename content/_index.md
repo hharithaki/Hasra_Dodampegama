@@ -34,8 +34,11 @@ sections:
     id: news
     content:
       title: Recent News
+      text: |
+      - 📃 Our work Reasoning and Explanation Generation in Ad Hoc Collaboration Between Humans and Embodied AI will be presented at the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR) 2024!
+    # date: 2024-08-11
     design:
-      view: list
+      columns: '1'
       spacing:
         padding: [2, 0, 0, 0]
   - block: collection
