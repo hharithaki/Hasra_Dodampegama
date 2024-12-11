@@ -1,16 +1,10 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: 📃 Our work Reasoning and Explanation Generation in Ad Hoc Collaboration Between Humans and Embodied AI will be presented at the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR) 2024!
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+date: 2024-08-11
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Academic
