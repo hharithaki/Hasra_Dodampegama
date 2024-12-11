@@ -42,7 +42,7 @@ sections:
       view: date-title-summary
       spacing:
         padding: [2, 0, 0, 0]
-  - block: collection
+  - block: resume-awards
     content:
       title: Recent Publications
       text: ""
