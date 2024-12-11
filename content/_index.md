@@ -49,8 +49,8 @@ sections:
       filters:
         folders:
           - publication
-    design:
-      view: citation
+    # design:
+    #   view: citation
   - block: collection
     id: talks
     content:
