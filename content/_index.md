@@ -34,7 +34,6 @@ sections:
     content:
       title: Recent News
       text: ""
-      type: landing
     design:
       view: date-title-summary
       spacing:
