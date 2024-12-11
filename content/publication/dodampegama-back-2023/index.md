@@ -1,6 +1,6 @@
 ---
 awards:
-  - title: Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork
+  - title: 'Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork'
     awarder: Hasra Dodampegama, Mohan Sridharan
     date: '2023-06-01'
     description: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
