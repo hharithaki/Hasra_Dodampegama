@@ -45,12 +45,6 @@ sections:
   - block: resume-awards
     content:
       title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-    # design:
-    #   view: citation
   - block: collection
     id: talks
     content:
