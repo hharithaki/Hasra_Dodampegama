@@ -35,6 +35,9 @@ sections:
     content:
       title: Recent News
       text: ""
+      filters:
+        folders:
+          - news
     design:
       view: list
       spacing:
