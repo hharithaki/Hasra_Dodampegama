@@ -24,11 +24,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hharithaki
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hasraharithaki/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=nKAYvqYAAAAJ
 
 interests:
   - Commonsense Reasoning
@@ -40,8 +40,8 @@ interests:
 education:
   - area: BSc of Engineering
     institution: University of Peradeniya
-    date_start: 2014
-    date_end: 2017
+    date_start: 2014-01-14
+    date_end: 2017-10-28
     summary: |
       - First Class Honors
       - Faculty of Engineering, Department of Computer Science
@@ -80,7 +80,7 @@ skills:
       - name: Books
         description: ''
         percent: 80
-        icon: book
+        icon: 📚
       - name: Painting
         description: ''
         percent: 60
