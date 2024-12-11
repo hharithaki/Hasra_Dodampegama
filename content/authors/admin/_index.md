@@ -43,8 +43,8 @@ education:
     date_start: 2014
     date_end: 2017
     summary: |
-      First Class Honors
-      Faculty of Engineering, Department of Computer Science
+      - First Class Honors
+      - Faculty of Engineering, Department of Computer Science
 
 work:
   - position: Software Engineer
