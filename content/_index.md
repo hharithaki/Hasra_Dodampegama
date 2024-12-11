@@ -46,6 +46,7 @@ sections:
     content:
       title: Recent Publications
     design:
+      view: article-grid
       columns: 2
   - block: collection
     id: talks
