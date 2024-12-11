@@ -45,6 +45,8 @@ sections:
   - block: resume-awards
     content:
       title: Recent Publications
+    design:
+      columns: 2
   - block: collection
     id: talks
     content:
