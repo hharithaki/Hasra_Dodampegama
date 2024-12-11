@@ -31,9 +31,9 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: news
     content:
       title: Recent News
-      text: ""
     design:
       view: date-title-summary
       spacing:
