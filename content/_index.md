@@ -39,7 +39,7 @@ sections:
         folders:
           - news
     design:
-      view: date-title-summary
+      view: list
       spacing:
         padding: [2, 0, 0, 0]
   - block: collection
