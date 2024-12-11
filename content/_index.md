@@ -35,7 +35,7 @@ sections:
     content:
       title: Recent News
     design:
-      view: date-title-summary
+      view: date-title
       spacing:
         padding: [2, 0, 0, 0]
   - block: collection
