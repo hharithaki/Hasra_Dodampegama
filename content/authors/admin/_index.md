@@ -51,8 +51,8 @@ work:
     company_name: IFS
     company_url: 'https://www.ifs.com/'
     company_logo: ''
-    date_start: 11/2017
-    date_end: 7/2021
+    date_start: 2017-11-01
+    date_end: 2021-07-01
     summary: |2-
       - Research and Development Software Engineering.
       - Develop, test and maintain Manufacturing functionalities in IFS Enterprise Resource Planning (ERP) system.
@@ -61,8 +61,8 @@ work:
     company_name: IFS
     company_url: 'https://www.ifs.com/'
     company_logo: ''
-    date_start: 10/2016
-    date_end: 03/2017
+    date_start: 2016-10-01
+    date_end: 2017-03-01
     summary: |
       - Develop IFS WebLogic Server Admin Console using Angular JS, Java Script, HTML5 and CSS.
 
