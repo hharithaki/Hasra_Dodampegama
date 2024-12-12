@@ -49,14 +49,6 @@ sections:
       filters:
         folders:
           - publication
-        tags: ''
-        category: ''
-        publication_type: ''
-        author: ''
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
       count: 6
       sort_by: 'Date'
       sort_ascending: false

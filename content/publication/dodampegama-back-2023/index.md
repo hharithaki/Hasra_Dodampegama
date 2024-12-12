@@ -1,6 +1,7 @@
 ---
 title: 'Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork'
-authors: Hasra Dodampegama, Mohan Sridharan
+authors:
+- admin
 date: '2023-06-01'
 publishDate: '2024-12-11T14:32:57.287218Z'
 publication_types:
