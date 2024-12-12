@@ -1,9 +1,7 @@
 ---
 title: 'Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork'
-text: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 authors:
-- admin
-- Mohan Sridharan
+- admin, Mohan Sridharan
 date: '2023-06-01'
 publishDate: '2024-12-11T14:32:57.287218Z'
 publication_types:
@@ -24,7 +22,7 @@ summary: State of the art methods for ad hoc teamwork, i.e., for collaboration w
   provides enhanced transparency and better performance than a state of the art data-driven
   baseline.
 tags:
-- 'MAS: Agent/AI Theories and Architectures'
+- 'Agent & Cognitive Architectures, Nonmonotonic Reasoning, Ecological Rationality'
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/25070
