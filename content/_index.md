@@ -51,7 +51,7 @@ sections:
           - publication
     design:
       view: card
-      columns: '1'
+      columns: 1
   - block: collection
     id: talks
     content:
