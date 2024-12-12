@@ -45,12 +45,12 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Recent Publications
       filters:
         folders:
           - publication
     design:
-      view: article-grid
+      view: card
       columns: 2
   - block: collection
     id: talks
