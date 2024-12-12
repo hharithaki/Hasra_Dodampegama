@@ -43,15 +43,16 @@ sections:
       spacing:
         padding: [2, 0, 0, 0]
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
-      text: ""
+      title: Featured Publications
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
   - block: collection
     id: talks
     content:
