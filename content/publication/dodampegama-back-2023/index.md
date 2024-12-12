@@ -3,14 +3,13 @@ title: 'Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork'
 authors:
 - admin
 - Mohan Sridharan
-date: '2023-06-01'
-publishDate: '2024-12-11T14:32:57.287218Z'
+date: '2023-02-11'
 publication_types:
-- article-journal
+- article-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 doi: 10.1609/aaai.v37i1.25070
-abstract: AAAI Conference on Artificial Intelligence
-summary: State of the art methods for ad hoc teamwork, i.e., for collaboration without
+summary: AAAI Conference on Artificial Intelligence
+abstract: State of the art methods for ad hoc teamwork, i.e., for collaboration without
   prior coordination, often use a long history of prior observations to model the
   behavior of other agents (or agent types) and to determine the ad hoc agent's behavior.
   In many practical domains, it is difficult to obtain large training datasets, and

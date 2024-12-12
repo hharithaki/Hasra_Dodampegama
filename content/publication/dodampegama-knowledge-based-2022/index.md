@@ -9,7 +9,7 @@ publication_types:
 - manuscript
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2208.11556
-summary: AI-HRI Symposium at AAAI Fall Symposium Series(FSS)
+summary: 'AI-HRI Symposium at AAAI Fall Symposium Series(FSS)'
 abstract: We present an architecture for ad hoc teamwork, which refers to collaboration
   in a team of agents without prior coordination. State of the art methods for this
   problem often include a data-driven component that uses a long history of prior

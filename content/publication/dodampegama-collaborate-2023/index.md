@@ -4,7 +4,7 @@ title: 'Collaborate and Explain on the Fly: Nonmonotonic Logical Reasoning and I
 authors:
 - admin
 - Mohan Sridharan
-date: '2023-01-01'
+date: '2023-09-03'
 publishDate: '2024-12-11T14:32:57.359817Z'
 publication_types:
 - paper-conference
@@ -12,7 +12,8 @@ publication: '*Proceedings of the 21st International Workshop on Non-Monotonic R
   co-located with the 20th International Conference on Principles of Knowledge Representation
   and Reasoning (KR 2023) and co-located with the 36th International Workshop on Description
   Logics (DL 2023), Rhodes, Greece, September 2-4, 2023*'
-summary: 'This paper describes an architecture for ad hoc teamwork, i.e., to enable
+summary: 'International Workshop on Non-Monotonic Reasoning (NMR) co-located with the International Conference on Principles of Knowledge Representation and Reasoning (KR 2023) and the International Workshop on Description Logics (DL 2023)'
+abstract: 'This paper describes an architecture for ad hoc teamwork, i.e., to enable
   an agent to collaborate with other agents “on the fly". State of the art frameworks
   for ad hoc teamwork often pursue a data-driven approach, using a large labeled dataset
   of prior observations to model the behavior of other agents and to determine the

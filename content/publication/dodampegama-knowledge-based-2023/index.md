@@ -8,8 +8,9 @@ date: '2023-07-01'
 publishDate: '2024-12-11T14:32:57.306080Z'
 publication_types:
 - article-journal
-publication: '*Theory and Practice of Logic Programming*'
+publication: '*In Theory and Practice of Logic Programming journal, 2023*'
 doi: 10.1017/S1471068423000091
+summary: 'Journal Theory and Practice of Logic Programming'
 abstract: 'Ad hoc teamwork (AHT) refers to the problem of enabling an agent to collaborate
   with teammates without prior coordination. State of the art methods in AHT are data-driven,
   using a large labeled dataset of prior observations to model the behavior of other

@@ -2,14 +2,15 @@
 title: Reasoning and Explanation Generation in Ad Hoc Collaboration Between Humans
   and Embodied AI
 authors:
-- Hasra Dodampegama
+- admin
 - Mohan Sridharan
-date: '2025-01-01'
+date: '2024-08-13'
 publishDate: '2024-12-11T14:32:57.320787Z'
 publication_types:
 - paper-conference
-publication: '*Logic Programming and Nonmonotonic Reasoning*'
+publication: '*In the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR), Texas, USA, August, 2024.*'
 doi: 10.1007/978-3-031-74209-5_26
+summary: 'International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR)'
 abstract: An assistive embodied AI agent often has to collaborate with previously
   unseen humans. State of the art frameworks for such ad hoc teamwork use a large
   labeled dataset of prior observations to model the behavior of other agents and
@@ -25,4 +26,8 @@ abstract: An assistive embodied AI agent often has to collaborate with previousl
   and reason with relevant knowledge, and provide relational descriptions as explanations
   of its behavior and that of the human. We evaluate our architecture’s capabilities
   in VirtualHome, a realistic 3D simulation environment.
+
+tags: 'Ad hoc teamwork, Non-monotonic logical reasoning, Ecological rationality, Explanation generation, Embodied AI'
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-031-74209-5_26 
 ---
