@@ -1,7 +1,7 @@
 ---
 title: Coordination in Ad Hoc Teams using Knowledge-based Reasoning and Learning
 authors:
-- Hasra Dodampegama
+- admin
 - Mohan Sridharan
 date: '2023-05-01'
 publishDate: '2024-12-11T14:32:57.372725Z'
@@ -10,7 +10,7 @@ publication_types:
 publication: '*Coordination in Ad Hoc Teams using Knowledge-based Reasoning and Learning.
   In the Workshop on Coordination, Organizations, Institutions, Norms and Ethics for
   Governance of Multi-Agent Systems (COINE) at AAMAS*'
-abstract: 'Ad hoc teamwork focuses on enabling an agent to collaborate with others
+summary: 'Ad hoc teamwork focuses on enabling an agent to collaborate with others
   without prior coordination. This is a central problem in the coordination of open
   multiagent systems in many practical applications. Data-driven learning methods
   represent the state of the art in ad hoc teamwork. They use a large labeled dataset
@@ -27,5 +27,7 @@ abstract: 'Ad hoc teamwork focuses on enabling an agent to collaborate with othe
   or better than state of the art data-driven baselines in simple and complex scenarios,
   particularly in the presence of limited training data, partial observability, and
   changes in team composition.'
+tags:
+- 'Non-monotonic logical reasoning, Ecological rationality, Ad hoc teamwork'
 url_pdf: https://coin-workshop.github.io/coine-2023-london/Papers/Paper-6.pdf
 ---

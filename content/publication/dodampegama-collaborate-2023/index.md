@@ -13,7 +13,7 @@ publication: '*Proceedings of the 21st International Workshop on Non-Monotonic R
   and Reasoning (KR 2023) and co-located with the 36th International Workshop on Description
   Logics (DL 2023), Rhodes, Greece, September 2-4, 2023*'
 summary: 'This paper describes an architecture for ad hoc teamwork, i.e., to enable
-  an agent to collaborate with other agents “on the fly\". State of the art frameworks
+  an agent to collaborate with other agents “on the fly". State of the art frameworks
   for ad hoc teamwork often pursue a data-driven approach, using a large labeled dataset
   of prior observations to model the behavior of other agents and to determine the
   ad hoc agent’s behavior. These models are computationally expensive to learn, lack

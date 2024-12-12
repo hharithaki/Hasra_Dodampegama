@@ -1,7 +1,7 @@
 ---
 title: Explanation and Knowledge Acquisition in Ad Hoc Teamwork
 authors:
-- Hasra Dodampegama
+- admin
 - Mohan Sridharan
 date: '2023-01-01'
 publishDate: '2024-12-11T14:32:57.333282Z'
@@ -9,6 +9,7 @@ publication_types:
 - paper-conference
 publication: '*Practical Aspects of Declarative Languages*'
 doi: 10.1007/978-3-031-52038-9_12
+summary: Practical Aspects of Declarative Languages
 abstract: 'State of the art frameworks for ad hoc teamwork i.e., for enabling an agent
   to collaborate with others “on the fly”, pursue a data-driven approach, using a
   large labeled dataset of prior observations to model the behavior of other agents
@@ -24,4 +25,10 @@ abstract: 'State of the art frameworks for ad hoc teamwork i.e., for enabling an
   in response to different types of questions. We evaluate the architecture’s knowledge
   acquisition and explanation generation abilities in two simulated benchmark domains:
   Fort Attack and Half Field Offense.'
+tags:
+- 'Nonmonotonic Reasoning, Ecological Rationality, Knowledge acquisition, Explanation generation, Ad hoc teamwork.'
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-031-52038-9_12
+url_video: https://www.youtube.com/watch?v=L0gai4aO7A0
 ---
