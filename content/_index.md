@@ -50,7 +50,7 @@ sections:
         folders:
           - publication
     design:
-      view: list
+      view: compact
       columns: 2
   - block: collection
     id: talks
