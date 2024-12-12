@@ -66,25 +66,6 @@ work:
     summary: |
       - Develop IFS WebLogic Server Admin Console using Angular JS, Java Script, HTML5 and CSS.
 
-# Hobbies
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Anime
-        description: ''
-        percent: 100
-        icon: anime-away-face
-      - name: Books
-        description: ''
-        percent: 80
-        icon: books
-      - name: Painting
-        description: ''
-        percent: 60
-        icon: Paint-Palette-And-Brush
 ---
 
 ## About Me
