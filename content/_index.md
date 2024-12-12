@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - publication
-        tag: ''
+        tags: ''
         category: ''
         publication_type: ''
         author: ''
@@ -57,8 +57,7 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-      count: 2
-      offset: 0
+      count: 6
       sort_by: 'Date'
       sort_ascending: false
     design:
