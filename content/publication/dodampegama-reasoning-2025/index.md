@@ -26,8 +26,9 @@ abstract: An assistive embodied AI agent often has to collaborate with previousl
   and reason with relevant knowledge, and provide relational descriptions as explanations
   of its behavior and that of the human. We evaluate our architecture’s capabilities
   in VirtualHome, a realistic 3D simulation environment.
-
-tags: 'Ad hoc teamwork, Non-monotonic logical reasoning, Ecological rationality, Explanation generation, Embodied AI'
+tags: 
+- 'Ad hoc teamwork, Non-monotonic logical reasoning, Ecological rationality, Explanation generation, Embodied AI'
+links:
 - name: URL
   url: https://link.springer.com/chapter/10.1007/978-3-031-74209-5_26 
 ---
