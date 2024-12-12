@@ -1,8 +1,8 @@
 ---
 title: 'Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork'
-subtitle: 'Proceedings of the AAAI Conference on Artificial Intelligence'
+text: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 authors:
-- Hasra Dodampegama # admin
+- admin
 - Mohan Sridharan
 date: '2023-06-01'
 publishDate: '2024-12-11T14:32:57.287218Z'
