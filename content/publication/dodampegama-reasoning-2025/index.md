@@ -8,7 +8,7 @@ date: '2024-08-13'
 publishDate: '2024-12-11T14:32:57.320787Z'
 publication_types:
 - paper-conference
-publication: '*In the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR), Texas, USA.*'
+publication: '*In the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR), Texas, USA*'
 summary: 'International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR)'
 abstract: An assistive embodied AI agent often has to collaborate with previously
   unseen humans. State of the art frameworks for such ad hoc teamwork use a large

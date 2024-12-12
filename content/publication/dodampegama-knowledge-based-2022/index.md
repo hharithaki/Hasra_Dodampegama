@@ -7,7 +7,7 @@ date: '2022-10-01'
 publishDate: '2024-12-11T14:32:57.346198Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
+publication: 'In AI-HRI Symposium at AAAI Fall Symposium Series(FSS)'
 summary: 'AI-HRI Symposium at AAAI Fall Symposium Series(FSS)'
 abstract: We present an architecture for ad hoc teamwork, which refers to collaboration
   in a team of agents without prior coordination. State of the art methods for this

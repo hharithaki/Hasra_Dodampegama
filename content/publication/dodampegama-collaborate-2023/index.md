@@ -8,10 +8,10 @@ date: '2023-09-03'
 publishDate: '2024-12-11T14:32:57.359817Z'
 publication_types:
 - paper-workshop
-publication: '*Proceedings of the 21st International Workshop on Non-Monotonic Reasoning
-  co-located with the 20th International Conference on Principles of Knowledge Representation
-  and Reasoning (KR 2023) and co-located with the 36th International Workshop on Description
-  Logics (DL 2023), Rhodes, Greece, September 2-4, 2023*'
+publication: '*In the International Workshop on Non-Monotonic Reasoning
+  co-located with the International Conference on Principles of Knowledge Representation
+  and Reasoning (KR 2023) and co-located with the International Workshop on Description
+  Logics (DL 2023), Rhodes, Greece*'
 summary: 'International Workshop on Non-Monotonic Reasoning (NMR) co-located with the International Conference on Principles of Knowledge Representation and Reasoning (KR 2023) and the International Workshop on Description Logics (DL 2023)'
 abstract: 'This paper describes an architecture for ad hoc teamwork, i.e., to enable
   an agent to collaborate with other agents “on the fly". State of the art frameworks
