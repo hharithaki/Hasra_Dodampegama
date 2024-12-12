@@ -18,18 +18,18 @@ sections:
       button:
         text: Download CV
         url: uploads/Hasra_Dodampegama_CV.pdf
-    design:
-      css_class: light
-      background:
-        color: white
-        #image:
+    # design:
+    #   css_class: light
+    #   background:
+    #     color: white
+        # image:
           # Add your image background to `assets/media/`.
-          #filename: stacked-peaks.svg
-          #filters:
-          #  brightness: 1.0
-          #size: cover
-          #position: center
-          #parallax: false
+          # filename: stacked-peaks.svg
+          # filters:
+          #   brightness: 1.0
+          # size: cover
+          # position: center
+          # parallax: false
   - block: collection
     id: news
     content:
