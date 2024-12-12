@@ -5,9 +5,8 @@ authors:
 - Mohan Sridharan
 date: '2023-02-11'
 publication_types:
-- article-conference
+- paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
-doi: 10.1609/aaai.v37i1.25070
 summary: AAAI Conference on Artificial Intelligence
 abstract: State of the art methods for ad hoc teamwork, i.e., for collaboration without
   prior coordination, often use a long history of prior observations to model the

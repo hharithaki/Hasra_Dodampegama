@@ -7,7 +7,7 @@ authors:
 date: '2023-09-03'
 publishDate: '2024-12-11T14:32:57.359817Z'
 publication_types:
-- paper-conference
+- paper-workshop
 publication: '*Proceedings of the 21st International Workshop on Non-Monotonic Reasoning
   co-located with the 20th International Conference on Principles of Knowledge Representation
   and Reasoning (KR 2023) and co-located with the 36th International Workshop on Description

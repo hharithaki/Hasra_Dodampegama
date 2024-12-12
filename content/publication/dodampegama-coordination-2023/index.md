@@ -6,7 +6,7 @@ authors:
 date: '2023-05-29'
 publishDate: '2024-12-11T14:32:57.372725Z'
 publication_types:
-- manuscript
+- paper-workshop
 publication: '*Coordination in Ad Hoc Teams using Knowledge-based Reasoning and Learning.
   In the Workshop on Coordination, Organizations, Institutions, Norms and Ethics for
   Governance of Multi-Agent Systems (COINE) at AAMAS*'

@@ -8,7 +8,6 @@ publishDate: '2024-12-11T14:32:57.346198Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
-doi: 10.48550/arXiv.2208.11556
 summary: 'AI-HRI Symposium at AAAI Fall Symposium Series(FSS)'
 abstract: We present an architecture for ad hoc teamwork, which refers to collaboration
   in a team of agents without prior coordination. State of the art methods for this
@@ -26,8 +25,7 @@ abstract: We present an architecture for ad hoc teamwork, which refers to collab
   behaviour from limited samples, transparency in the ad hoc agent's decision making,
   and better performance than a data-driven baseline.
 tags:
-- 'Artificial Intelligence'
-- 'Multiagent Systems'
+- 'Artificial Intelligence, Multiagent Systems'
 links:
 - name: URL
   url: http://arxiv.org/abs/2208.11556

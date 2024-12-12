@@ -8,7 +8,6 @@ publishDate: '2024-12-11T14:32:57.333282Z'
 publication_types:
 - paper-conference
 publication: '*In the International Symposium on Practical Aspects of Declarative Languages (PADL) at POPL, London, UK*'
-doi: 10.1007/978-3-031-52038-9_12
 summary: 'International Symposium on Practical Aspects of Declarative Languages (PADL) at POPL'
 abstract: 'State of the art frameworks for ad hoc teamwork i.e., for enabling an agent
   to collaborate with others “on the fly”, pursue a data-driven approach, using a
@@ -26,9 +25,9 @@ abstract: 'State of the art frameworks for ad hoc teamwork i.e., for enabling an
   acquisition and explanation generation abilities in two simulated benchmark domains:
   Fort Attack and Half Field Offense.'
 tags:
-- 'Nonmonotonic Reasoning, Ecological Rationality, Knowledge acquisition, Explanation generation, Ad hoc teamwork.'
+- 'Nonmonotonic Reasoning, Ecological Rationality, Knowledge acquisition, Explanation generation, Ad hoc teamwork'
 links:
-- name: URL
+- name: Details
   url: https://link.springer.com/chapter/10.1007/978-3-031-52038-9_12
 url_video: https://www.youtube.com/watch?v=L0gai4aO7A0
 ---
