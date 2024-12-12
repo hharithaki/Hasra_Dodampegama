@@ -42,12 +42,16 @@ sections:
       view: date-title-summary
       spacing:
         padding: [2, 0, 0, 0]
-  - block: resume-awards
+  - block: collection
     content:
       title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
   - block: collection
     id: talks
     content:
