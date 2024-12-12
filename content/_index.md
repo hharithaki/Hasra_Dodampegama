@@ -50,8 +50,8 @@ sections:
         folders:
           - publication
     design:
-      view: card
-      columns: '2'
+      view: article-grid
+      columns: 2
   - block: collection
     id: talks
     content:
