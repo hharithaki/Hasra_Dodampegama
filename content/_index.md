@@ -57,10 +57,10 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        count: 2
-        offset: 0
-        sort_by: 'Date'
-        sort_ascending: false
+      count: 2
+      offset: 0
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       view: article-grid
       columns: 2
