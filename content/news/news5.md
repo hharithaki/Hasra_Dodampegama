@@ -1,4 +1,4 @@
 ---
-title: 🏆 Excited to share that our paper Back to the Future Toward a Hybrid Architecture for Ad Hoc Teamwork has been recognised as an outstanding contributions of 2023 by CAIRNE Rising Researcher Paper Highlights!
-date: 2024-06-12
+title: 📃 Our work Reasoning and Explanation Generation in Ad hoc Collaboration between Humans and Embodied AI will be presented at the International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR) 2024!
+date: 2024-08-14
 ---

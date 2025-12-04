@@ -1,4 +1,4 @@
 ---
-title: 📢 Our poster has been accepted for presentation at UK-MAS Symposium 2025.
-date: 2025-02-27
+title: 🤖 Three workshop papers accepted at ECAI 2025! We will present at AIC, EDAI, and XAI-KRKG.
+date: 2025-08-28
 ---
